@@ -4,11 +4,11 @@
   <a href="https://t.me/b0wlerr">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/b0wlerr">
     <img src="https://img.shields.io/badge/vk-red?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 </div>
